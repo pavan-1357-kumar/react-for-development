@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+// This is completed 
 function App() {
   return (
     <div className="App">
@@ -22,7 +22,7 @@ function App() {
 
         {/* comment by prince */}
 
-
+{/* this is the new comment from pavan */}
         <a
           className="App-link"
           href="https://reactjs.org"
