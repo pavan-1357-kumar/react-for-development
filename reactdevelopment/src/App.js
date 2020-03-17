@@ -13,11 +13,8 @@ function App() {
 
         {/* i have commented here */}
         {/* develop branch */}
-
-
         {/* Ayush branch commit */}
-
-{/* commit to prince branch */}
+        {/* commit to prince branch */}
         {/* comment by prince */}
 
 
