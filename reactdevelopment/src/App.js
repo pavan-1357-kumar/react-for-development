@@ -22,7 +22,7 @@ function App() {
 
         {/* comment by prince */}
 
-
+{/* this is the new comment from pavan */}
         <a
           className="App-link"
           href="https://reactjs.org"
