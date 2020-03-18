@@ -10,9 +10,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-
+        {/* this comment is done bt lalitha */}
         {/* This is new comment */}
-{/* commit to prince branch */}
+        {/* commit to prince branch */}
 
 
         {/* i have commented here */}
@@ -22,7 +22,7 @@ function App() {
 
         {/* comment by prince */}
 
-{/* this is the new comment from pavan */}
+        {/* this is the new comment from pavan */}
         <a
           className="App-link"
           href="https://reactjs.org"
