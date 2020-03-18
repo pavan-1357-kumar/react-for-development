@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 // This is completed 
+
+//This is second comment by lolithach
 function App() {
   return (
     <div className="App">
@@ -10,6 +12,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+
+
         {/* this comment is done bt lalitha */}
         {/* This is new comment */}
         {/* commit to prince branch */}
