@@ -14,7 +14,7 @@ function App() {
         </p>
 
 
-{/* this comment is by deepak thandu */}
+{/* this comment is by deepak thandu  and pavan*/}
         {/* This is new comment */}
 {/* commit to prince branch */}
 
