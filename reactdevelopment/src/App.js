@@ -11,6 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
 
+{/* this comment is by deepak thandu */}
         {/* This is new comment */}
 {/* commit to prince branch */}
 
