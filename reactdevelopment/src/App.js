@@ -12,6 +12,15 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+
+
+{/* this comment is by deepak thandu  and pavan*/}
+        {/* This is new comment */}
+{/* commit to prince branch */}
+
+{/* this is new comment */}
+
+
         {/* harisreeeeeeeeeeeeeeeeeeeeeeeeeeee */}
        
         {/* this is third by lalitha */}
@@ -26,6 +35,9 @@ function App() {
         {/* commit to prince branch */}
 
         {/* comment by prince */}
+
+
+{/* this is the new comment from pavan */}
 
         {/* this is the new comment from pavan */}
         <a
